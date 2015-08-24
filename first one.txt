@@ -3,3 +3,4 @@ third one
 third test
 var_dumpf
 php input
+var dump
